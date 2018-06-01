@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "128674552550",
+    "firebase_url": "https://sweetcam-9f626.firebaseio.com",
+    "project_id": "sweetcam-9f626",
+    "storage_bucket": "sweetcam-9f626.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128674552550:android:c20bfdc3126f93fd",
+        "android_client_info": {
+          "package_name": "com.sweetcam.reut.cameraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128674552550-f7lr7mgac67gfd6n3eqqehm7qugm1871.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "128674552550-f7lr7mgac67gfd6n3eqqehm7qugm1871.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOc2c_QI4CgINLpHJnrvhRN86_ZUq-jZ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
