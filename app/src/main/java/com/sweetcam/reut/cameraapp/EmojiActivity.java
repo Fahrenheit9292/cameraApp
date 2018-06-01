@@ -32,7 +32,7 @@ public class EmojiActivity extends Activity implements View.OnClickListener {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_emoji);
 
-        bad_btn = findViewById(R.id.bad_btn);
+        bad_btn = (Button) findViewById(R.id.bad_btn);
         bad_btn.setOnClickListener(this);
     }
 

@@ -40,8 +40,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 .addApi(Auth.GOOGLE_SIGN_IN_API, gso)
                 .build();
 
-        statusTextView = findViewById(R.id.status_textview);
-        signInButton = findViewById(R.id.google_sign_in_btn);
+        statusTextView = (TextView) findViewById(R.id.status_textview);
+        signInButton = (SignInButton) findViewById(R.id.google_sign_in_btn);
         signInButton.setOnClickListener(this);
 
     }
